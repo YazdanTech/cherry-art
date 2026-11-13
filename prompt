@@ -1,0 +1,34 @@
+name: Cherry art to wear
+Artist page: about the artist, first page or landing page.
+Design:
+
+Hero section:
+    a painting as the background
+
+    text on the background(backdrop filter blurry, and gradient at the same time, from black to transparent form left to right):
+        about the artist(small text above the h1 with gradual color change): Latifa AlNuaimi(h1), daughter of a poet(h3 or something).
+
+(as the user scrolls, first the text and its background disappears without changing its places so the painting will become obvious,  then, whiel user keeps scrolling, the image being at its own placce, fades and another image comes to its place, and the next text with blurry backdrop filter comes from bottom to top on the image, the text of my story, the section bellow)
+
+My story section:
+    My Story:
+
+    Emirati artist whose practice combines abstract calligraphy, painting and sculpture.
+
+    “I paint the way a poem is read, slowly, then all at once. Each mark begins as a word I could not say, and ends as a shape you can feel.”
+
+    (the image and text disappearas again in the same way as previosu image, and the next article of text appear wiht new image, in the same way as the preiovus one)
+
+    Latifa AlNuaimi is an Emirati artist based in the UAE. Her practice brings together abstract calligraphy, painting and sculpture, drawing on the expressive possibilities of Arabic letterforms.
+
+    Inspired by her father, the poet Rabee bin Yaqoot Alnuaimi, she approaches poetry as a source of imagery, feeling and artistic exploration, a conversation between language, gesture and visual rhythm.
+
+    Her abstract world gathers playful lines, soulful shapes and unexpected colour, spirals, moons and cherries in cream, red, blue and black.
+
+    (third image remains, and this time it scrolls normally after the text disappears)
+
+Two sections marked "Coming Soon": the Horse Terrace Exhibition (with one image only) and Art Wear.
+
+Contact: Instagram only, the Cherry To Wear page. No email on the site.
+
+For the look, I want it simple and minimal, with a naive, authentic art feel, like a small gallery. Not a standard template.
