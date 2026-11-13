@@ -300,14 +300,3 @@ h1.title {
     bottom: 1.5rem;
   }
 }
-
-@media (prefers-reduced-motion: reduce) {
-  html {
-    scroll-behavior: auto;
-  }
-
-  .js .step .txt,
-  .js .step .art {
-    transition: none;
-  }
-}
